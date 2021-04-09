@@ -1,11 +1,15 @@
 [
   {
-    "Arabicword": "bayt",
+    "Arabicword": "بَيْت - Bayt",
     "Englishword": "House"
   },
   {
-    "Arabicword": "Sayyara",
+    "Arabicword": "سَيّارة - Sayyara",
     "Englishword": "Car"
+  },
+  {
+    "Arabicword": "مَدْرَسيّ - Madrasiyy",
+    "Englishword": "School"
   }
 ]
 
